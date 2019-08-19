@@ -1,5 +1,5 @@
 # RogueLike
-インターンシップで制作した、Windowsのコンソール上で動くローグライクゲームです。
+Windowsのコンソール上で動くローグライクゲームです。
 
 ## 遊び方
 x64/Release/RogueLike.exeを実行してください。
